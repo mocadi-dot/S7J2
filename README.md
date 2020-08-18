@@ -53,7 +53,7 @@ Formulaire :
 
 Index :
 
-<img src="assets/img/1 - dbBLS27.jpg" width="900px"/>
+<img src="assets/img/Screenshot_2020-08-18_at_19.17.35.png" width="900px"/>
 
 Footer:
 
