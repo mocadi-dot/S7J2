@@ -1,16 +1,9 @@
 Projet : Molécules et organismes 
 
-Par
-_____      _      _____   ______    _ _
-|  ___|    (_)    |_   _|  |  ___|  (_) |
-| |__ _ __  _  ___  | |    | |_ __ _ _| |
-|  __| '_ \| |/ __| | |    |  _/ _` | | |
-| |__| |_) | | (__  | |    | || (_| | | |
-\____/ .__/|_|\___| \_/    \_| \__,_|_|_|
-     | |        ______ ______
-     |_|       |______|______|
+Par :
 
-     
+<img width="420" alt="Screen_Shot_2020-08-18_at_5 49 18_PM" src="https://user-images.githubusercontent.com/44788022/90537486-aabe9600-e17d-11ea-83c6-fe48dec685af.png">
+
 Nous avons utilisé https://bootswatch.com/superhero/
 
 Pour ce projet, nous allons te demander de partir sur un kit UI préfait. Ceci a deux avantages :
