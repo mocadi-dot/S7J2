@@ -1,7 +1,14 @@
 Projet : Molécules et organismes 
 
 Par
-<img src="assets/img/epic.png" width="900px"/>
+_____      _      _____   ______    _ _
+|  ___|    (_)    |_   _|  |  ___|  (_) |
+| |__ _ __  _  ___  | |    | |_ __ _ _| |
+|  __| '_ \| |/ __| | |    |  _/ _` | | |
+| |__| |_) | | (__  | |    | || (_| | | |
+\____/ .__/|_|\___| \_/    \_| \__,_|_|_|
+     | |        ______ ______
+     |_|       |______|______|
 
      
 Nous avons utilisé https://bootswatch.com/superhero/
@@ -32,7 +39,7 @@ Navbar :
 
 Cards :
 
-<img src="assets/img/Screen_Shot_2020-08-18_at_5.29.08_PM.png" width="900px"/>
+<img width="1220" alt="Screen Shot 2020-08-18 at 5 29 08 PM" src="https://user-images.githubusercontent.com/44788022/90536207-07b94c80-e17c-11ea-8d24-e3b84bf5b0bc.png">
 
 Bannière :
 <img src="assets/img/4 - EmRDZlt.jpg" width="900px"/>
