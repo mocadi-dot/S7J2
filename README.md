@@ -36,3 +36,8 @@ Ensuite, tu auras à réaliser les molécules et organismes suivants :
     Un organisme de ton choix
 
 Enfin, pour ce projet, nous allons te demander de l'imaginer pour ton projet Eventbrite. En effet, demain tu insèreras toutes les molécules dans ton application lorsque nous te montrerons la force de l'atomic design conjugué à Rails.
+
+Navbar :
+
+![img](http://i.imgur.com/JGrJLO5)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/enpdRDj"  ><a href="//imgur.com/a/enpdRDj">Navbar Superhero</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
