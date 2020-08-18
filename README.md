@@ -41,3 +41,16 @@ Navbar :
 
 ![img](http://i.imgur.com/JGrJLO5)
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/enpdRDj"  ><a href="//imgur.com/a/enpdRDj">Navbar Superhero</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+Cards :
+https://imgur.com/odpdg3w
+
+Bannière :
+https://imgur.com/EmRDZlt
+
+Formulaire :
+https://imgur.com/V0Bk1ox
+
+Index:
+hthttps://imgur.com/dbBLS27
+
