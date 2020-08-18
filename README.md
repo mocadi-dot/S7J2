@@ -32,7 +32,7 @@ Enfin, pour ce projet, nous allons te demander de l'imaginer pour ton projet Eve
 
 
 ## Notre kit UI
-*Pour ce travail, nous avons créé les molécules suivantes* :
+*Pour ce travail, nous avons créé les molécules suivantes :
 
 
 Bannière :
