@@ -1,14 +1,7 @@
 Projet : Molécules et organismes 
 
 Par
-_____      _      _____   ______    _ _
-|  ___|    (_)    |_   _|  |  ___|  (_) |
-| |__ _ __  _  ___  | |    | |_ __ _ _| |
-|  __| '_ \| |/ __| | |    |  _/ _` | | |
-| |__| |_) | | (__  | |    | || (_| | | |
-\____/ .__/|_|\___| \_/    \_| \__,_|_|_|
-     | |        ______ ______
-     |_|       |______|______|
+<img src="assets/img/epic.png" width="900px"/>
 
      
 Nous avons utilisé https://bootswatch.com/superhero/
