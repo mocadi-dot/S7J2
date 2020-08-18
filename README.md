@@ -29,7 +29,7 @@ Ensuite, tu auras à réaliser les molécules et organismes suivants :
          
 Enfin, pour ce projet, nous allons te demander de l'imaginer pour ton projet Eventbrite. En effet, demain tu insèreras toutes les molécules dans ton application lorsque nous te montrerons la force de l'atomic design conjugué à Rails.
 
-**
+
 
 ## Notre kit UI
 *Pour ce travail, nous avons créé les molécules suivantes* :
