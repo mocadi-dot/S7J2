@@ -1,4 +1,4 @@
-Projet : Molécules et organismes 
+P## **Projet : Molécules et organismes**
 
 Par :
 
@@ -8,24 +8,32 @@ Nous avons utilisé https://bootswatch.com/superhero/
 
 Pour ce projet, nous allons te demander de partir sur un kit UI préfait. Ceci a deux avantages :
 
-    Déjà, tous les atomes sont désignés. Les tables, les forms, les alertes et bien d'autres. Pas d'oubli et tu seras prêt à faire des molécules et organismes au top
-    Ensuite, avec un kit UI déjà préfait, la mise en page sera beaucoup plus simple grâce au système de mise en page de Bootstrap
+Tous les atomes sont désignés. Les tables, les forms, les alertes et bien d'autres. Pas d'oubli et tu seras prêt à faire des molécules et organismes au top. Ensuite, avec un kit UI déjà préfait, la mise en page sera beaucoup plus simple grâce au système de mise en page de Bootstrap
 
 Ensuite, tu auras à réaliser les molécules et organismes suivants :
+ - Une navbar
+ - Un footer
+ - L'organisme "formulaire d'authentification"
+ - La bannière
+    
+ - Plusieurs formats de cartes de présentation
+        
+ - Puis les organismes qui représentent la listes de ces cartes
+          La molécule commentaire
+              L'organisme "section commentaires"
+ - Une section "présentation ressource" qui sera grossomodo la section qui présente le show de n'importe quelle ressource
+ -  Une section qui présente un élément (à gauche du texte, à droite une image)
+          Un organisme de ton choix
 
-    Une navbar
-    Un footer
-    L'organisme "formulaire d'authentification"
-    La bannière
-    Plusieurs formats de cartes de présentation
-        Puis les organismes qui représentent la listes de ces cartes
-    La molécule commentaire
-        L'organisme "section commentaires"
-    Une section "présentation ressource" qui sera grossomodo la section qui présente le show de n'importe quelle ressource
-    Une section qui présente un élément (à gauche du texte, à droite une image)
-    Un organisme de ton choix
 
+         
 Enfin, pour ce projet, nous allons te demander de l'imaginer pour ton projet Eventbrite. En effet, demain tu insèreras toutes les molécules dans ton application lorsque nous te montrerons la force de l'atomic design conjugué à Rails.
+
+**
+
+## Notre kit UI
+*Pour ce travail, nous avons créé les molécules suivantes* :
+
 
 Bannière :
 
@@ -41,9 +49,8 @@ Navbar :
 
 Formulaire :
 
-<img width="419" alt="Screen Shot 2020-08-18 at 6 29 20 PM" src="https://user-images.githubusercontent.com/44788022/90539999-dd1dc280-e180-11ea-9480-fc46c0e83466.png">
+<img src="assets/img/5 - V0Bk1ox.jpg" width="900px"/>
 
 Index :
 
 <img src="assets/img/1 - dbBLS27.jpg" width="900px"/>
-
