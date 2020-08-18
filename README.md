@@ -49,8 +49,12 @@ Navbar :
 
 Formulaire :
 
-<img src="assets/img/5 - V0Bk1ox.jpg" width="900px"/>
+<img width="419" alt="Screen Shot 2020-08-18 at 6 29 20 PM" src="https://user-images.githubusercontent.com/44788022/90541148-7b5e5800-e182-11ea-81ba-efdbc2070e9a.png">
 
 Index :
 
 <img src="assets/img/1 - dbBLS27.jpg" width="900px"/>
+
+Bonus :
+
+![Screen_Shot_2020-08-18_at_6 37 23_PM](https://user-images.githubusercontent.com/44788022/90541192-89ac7400-e182-11ea-9ff5-167f5b366224.png)
