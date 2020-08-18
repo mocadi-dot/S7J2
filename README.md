@@ -55,6 +55,10 @@ Index :
 
 <img src="assets/img/1 - dbBLS27.jpg" width="900px"/>
 
+Footer:
+
+<img src="assets/img/footer.png" width="900px"/>
+
 Bonus :
 
 ![Screen_Shot_2020-08-18_at_6 37 23_PM](https://user-images.githubusercontent.com/44788022/90541192-89ac7400-e182-11ea-9ff5-167f5b366224.png)
